@@ -1,12 +1,11 @@
-import express from "express";
+import express from 'express';
+import { usersRouter } from './routes/users';
 
 const PORT = 5000;
 
 const app = express();
 
-app.use('/', (req, res) => {
-  res.send('Hi dfwfwre');
-});
+app.use(usersRouter);
 
 app.listen(PORT, () => {
   console.clear();
