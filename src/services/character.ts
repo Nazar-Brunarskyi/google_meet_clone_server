@@ -1,9 +1,9 @@
 import { Sequelize } from "sequelize-typescript";
 import { CharacterModel } from "../models/characters/characterModel";
 
-export const getCharacters = async (count: number) => {
+export const getCharacters = async (amount: number) => {
   return CharacterModel.findAll({
-    limit: count,
+    limit: amount,
     order: Sequelize.literal('random()')
   });
 }
