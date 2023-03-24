@@ -7,3 +7,10 @@ export const getCharacters = async (amount: number) => {
     order: Sequelize.literal('random()')
   });
 }
+
+export const getCharacter = async () => {
+  const characters = await getCharacters(1);
+  console.log(characters);
+
+  return characters[0];
+}
