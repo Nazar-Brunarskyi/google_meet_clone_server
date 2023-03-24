@@ -1,0 +1,402 @@
+[
+  {
+    "characterName": "Rick Sanchez",
+    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+  },
+  {
+    "characterName": "Morty Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+  },
+  {
+    "characterName": "Summer Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+  },
+  {
+    "characterName": "Beth Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+  },
+  {
+    "characterName": "Jerry Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+  },
+  {
+    "characterName": "Abadango Cluster Princess",
+    "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+  },
+  {
+    "characterName": "Abradolf Lincler",
+    "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+  },
+  {
+    "characterName": "Adjudicator Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+  },
+  {
+    "characterName": "Agency Director",
+    "image": "https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+  },
+  {
+    "characterName": "Alan Rails",
+    "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+  },
+  {
+    "characterName": "Albert Einstein",
+    "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+  },
+  {
+    "characterName": "Alexander",
+    "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+  },
+  {
+    "characterName": "Alien Googah",
+    "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+  },
+  {
+    "characterName": "Alien Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+  },
+  {
+    "characterName": "Alien Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+  },
+  {
+    "characterName": "Amish Cyborg",
+    "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+  },
+  {
+    "characterName": "Annie",
+    "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+  },
+  {
+    "characterName": "Antenna Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+  },
+  {
+    "characterName": "Antenna Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+  },
+  {
+    "characterName": "Ants in my Eyes Johnson",
+    "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+  },
+  {
+    "characterName": "Aqua Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+  },
+  {
+    "characterName": "Aqua Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+  },
+  {
+    "characterName": "Arcade Alien",
+    "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+  },
+  {
+    "characterName": "Armagheadon",
+    "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+  },
+  {
+    "characterName": "Armothy",
+    "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+  },
+  {
+    "characterName": "Arthricia",
+    "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+  },
+  {
+    "characterName": "Artist Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+  },
+  {
+    "characterName": "Attila Starwar",
+    "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+  },
+  {
+    "characterName": "Baby Legs",
+    "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+  },
+  {
+    "characterName": "Baby Poopybutthole",
+    "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg"
+  },
+  {
+    "characterName": "Baby Wizard",
+    "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+  },
+  {
+    "characterName": "Bearded Lady",
+    "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+  },
+  {
+    "characterName": "Beebo",
+    "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg"
+  },
+  {
+    "characterName": "Benjamin",
+    "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+  },
+  {
+    "characterName": "Bepisian",
+    "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+  },
+  {
+    "characterName": "Beta-Seven",
+    "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+  },
+  {
+    "characterName": "Beth Sanchez",
+    "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+  },
+  {
+    "characterName": "Beth Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+  },
+  {
+    "characterName": "Beth Smith",
+    "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+  },
+  {
+    "characterName": "Beth's Mytholog",
+    "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+  },
+  {
+    "characterName": "Big Boobed Waitress",
+    "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+  },
+  {
+    "characterName": "Big Head Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+  },
+  {
+    "characterName": "Big Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+  },
+  {
+    "characterName": "Body Guard Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/44.jpeg"
+  },
+  {
+    "characterName": "Bill",
+    "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+  },
+  {
+    "characterName": "Bill",
+    "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+  },
+  {
+    "characterName": "Birdperson",
+    "image": "https://rickandmortyapi.com/api/character/avatar/47.jpeg"
+  },
+  {
+    "characterName": "Black Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/48.jpeg"
+  },
+  {
+    "characterName": "Blamph",
+    "image": "https://rickandmortyapi.com/api/character/avatar/49.jpeg"
+  },
+  {
+    "characterName": "Blim Blam",
+    "image": "https://rickandmortyapi.com/api/character/avatar/50.jpeg"
+  },
+  {
+    "characterName": "Blue Diplomat",
+    "image": "https://rickandmortyapi.com/api/character/avatar/51.jpeg"
+  },
+  {
+    "characterName": "Blue Footprint Guy",
+    "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+  },
+  {
+    "characterName": "Blue Shirt Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/53.jpeg"
+  },
+  {
+    "characterName": "Bobby Moynihan",
+    "image": "https://rickandmortyapi.com/api/character/avatar/54.jpeg"
+  },
+  {
+    "characterName": "Boobloosian",
+    "image": "https://rickandmortyapi.com/api/character/avatar/55.jpeg"
+  },
+  {
+    "characterName": "Bootleg Portal Chemist Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/56.jpeg"
+  },
+  {
+    "characterName": "Borpocian",
+    "image": "https://rickandmortyapi.com/api/character/avatar/57.jpeg"
+  },
+  {
+    "characterName": "Brad",
+    "image": "https://rickandmortyapi.com/api/character/avatar/58.jpeg"
+  },
+  {
+    "characterName": "Brad Anderson",
+    "image": "https://rickandmortyapi.com/api/character/avatar/59.jpeg"
+  },
+  {
+    "characterName": "Calypso",
+    "image": "https://rickandmortyapi.com/api/character/avatar/60.jpeg"
+  },
+  {
+    "characterName": "Campaign Manager Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+  },
+  {
+    "characterName": "Canklanker Thom",
+    "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+  },
+  {
+    "characterName": "Centaur",
+    "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+  },
+  {
+    "characterName": "Chris",
+    "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+  },
+  {
+    "characterName": "Chris",
+    "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+  },
+  {
+    "characterName": "Coach Feratu (Balik Alistane)",
+    "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+  },
+  {
+    "characterName": "Collector",
+    "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg"
+  },
+  {
+    "characterName": "Colossus",
+    "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg"
+  },
+  {
+    "characterName": "Commander Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg"
+  },
+  {
+    "characterName": "Concerto",
+    "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+  },
+  {
+    "characterName": "Conroy",
+    "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg"
+  },
+  {
+    "characterName": "Cool Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg"
+  },
+  {
+    "characterName": "Cop Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg"
+  },
+  {
+    "characterName": "Cop Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg"
+  },
+  {
+    "characterName": "Courier Flap",
+    "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg"
+  },
+  {
+    "characterName": "Cousin Nicky",
+    "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+  },
+  {
+    "characterName": "Cowboy Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+  },
+  {
+    "characterName": "Cowboy Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+  },
+  {
+    "characterName": "Crab Spider",
+    "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+  },
+  {
+    "characterName": "Creepy Little Girl",
+    "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+  },
+  {
+    "characterName": "Crocubot",
+    "image": "https://rickandmortyapi.com/api/character/avatar/81.jpeg"
+  },
+  {
+    "characterName": "Cronenberg Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/82.jpeg"
+  },
+  {
+    "characterName": "Cronenberg Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/83.jpeg"
+  },
+  {
+    "characterName": "Cult Leader Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/84.jpeg"
+  },
+  {
+    "characterName": "Cyclops Morty",
+    "image": "https://rickandmortyapi.com/api/character/avatar/85.jpeg"
+  },
+  {
+    "characterName": "Cyclops Rick",
+    "image": "https://rickandmortyapi.com/api/character/avatar/86.jpeg"
+  },
+  {
+    "characterName": "Cynthia",
+    "image": "https://rickandmortyapi.com/api/character/avatar/87.jpeg"
+  },
+  {
+    "characterName": "Cynthia",
+    "image": "https://rickandmortyapi.com/api/character/avatar/88.jpeg"
+  },
+  {
+    "characterName": "Dale",
+    "image": "https://rickandmortyapi.com/api/character/avatar/89.jpeg"
+  },
+  {
+    "characterName": "Daron Jefferson",
+    "image": "https://rickandmortyapi.com/api/character/avatar/90.jpeg"
+  },
+  {
+    "characterName": "David Letterman",
+    "image": "https://rickandmortyapi.com/api/character/avatar/91.jpeg"
+  },
+  {
+    "characterName": "Davin",
+    "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+  },
+  {
+    "characterName": "Diablo Verde",
+    "image": "https://rickandmortyapi.com/api/character/avatar/93.jpeg"
+  },
+  {
+    "characterName": "Diane Sanchez",
+    "image": "https://rickandmortyapi.com/api/character/avatar/94.jpeg"
+  },
+  {
+    "characterName": "Dipper and Mabel Mortys",
+    "image": "https://rickandmortyapi.com/api/character/avatar/95.jpeg"
+  },
+  {
+    "characterName": "Tuberculosis",
+    "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg"
+  },
+  {
+    "characterName": "Gonorrhea",
+    "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg"
+  },
+  {
+    "characterName": "Hepatitis A",
+    "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg"
+  },
+  {
+    "characterName": "Hepatitis C",
+    "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg"
+  },
+  {
+    "characterName": "Bubonic Plague",
+    "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg"
+  }
+]

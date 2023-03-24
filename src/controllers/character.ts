@@ -3,8 +3,9 @@ import * as charactersServices from '../services/character';
 
 export const getCharacters = async (req: Request, res: Response) => {
   try {
-    const data = await charactersServices.getCharacters();
+    const data = await charactersServices.getCharacters(12);
 
+    
     res.send(data)
   } catch (err) {
     res.sendStatus(500);
@@ -13,8 +14,9 @@ export const getCharacters = async (req: Request, res: Response) => {
 
 export const getRandomCharacter = async (req: Request, res: Response) => {
   try {
-    const data = await charactersServices.getRandomCharacter();
+    const data = await charactersServices.getCharacters(1);
 
+    
     res.send(data)
   } catch (err) {
     res.sendStatus(500);

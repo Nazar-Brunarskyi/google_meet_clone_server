@@ -9,7 +9,7 @@ import {
 import { DataTypes } from 'sequelize';
 
 @Table({
-  tableName: 'Users',
+  tableName: 'Characters',
   createdAt: false,
   updatedAt: false,
 })
@@ -31,7 +31,7 @@ export class CharacterModel extends Model {
 
   @AllowNull(false)
   @Column({
-    type: DataTypes.INTEGER,
+    type: DataTypes.STRING,
   })
-  index: string;
+  image: string;
 }
