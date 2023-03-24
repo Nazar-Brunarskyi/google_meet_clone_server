@@ -3,7 +3,7 @@ import { charactersRouter } from './routes/character';
 import cors from 'cors';
 import { DBinit } from './models/DBinit';
 
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 const app = express();
 
 DBinit();
