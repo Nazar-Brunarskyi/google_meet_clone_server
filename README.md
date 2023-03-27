@@ -11,7 +11,6 @@ first of them sends you a set of 12 random characters from the database for the 
    * NEON
 
 ## technologies
-   * REST
    * MVC
 
 # To run it
